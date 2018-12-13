@@ -1,8 +1,8 @@
 
 /**
- * Description: 移动端rem适配方案
- * User: zhaoyiming
- * Date: 2018/09/01
+ * 移动端rem适配方案
+ * @author: zhaoyiming
+ * @since: 2018/09/01
  * License: MIT, https://github.com/zymfe/rem
  */
 ;(function (window) {
